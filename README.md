@@ -75,7 +75,7 @@ Rechner in Form einer Vorführung. Der Code muss im Labor übersetzbar sein.
 
 --------------------------------
 
-#Den Code verstehen:
+Den Code verstehen:
 
 * alles in allem sehr stark an zustandsdiagramm aus den Hinweisfolien und orientiert
 * WICHTIG: die eingabe.txt darf nicht mehr zeilen besitzen als 2 * MAXWINDOWSIZE
